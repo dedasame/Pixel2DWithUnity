@@ -18,9 +18,11 @@ git commit -m "Kaydedilmemiş değişiklikler"
 “`
 git filter-branch --force --index-filter \
 “`
+
 “`
 'git rm --cached --ignore-unmatch Library/PackageCache/com.unity.burst@1.8.4/.Runtime/libburst-llvm-14.dylib' \
 “`
+
 “`
 --prune-empty --tag-name-filter cat -- --all
 “`
