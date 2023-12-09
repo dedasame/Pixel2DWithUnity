@@ -3,14 +3,10 @@
 ## Github yükleme adimlari: 
 
 ### Dosyanın bulunduğu konumda git bash açıyoruz.**
-“`
+```
 git add .
-“`
-
-“`
 git commit -m "Kaydedilmemiş değişiklikler"
-“`
-
+```
 - git yorumu istenilen şekilde değiştirilir. (Kaydedilmemiş Değişiklikler)
 
 ### git geçmişini temizlemek için: yüklerken sorun cıkaran dosyayı temizlemek icin:
