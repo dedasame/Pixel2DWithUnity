@@ -30,3 +30,15 @@ git filter-branch --force --index-filter \
 git push origin --force --all
 ```
 
+## Oyundan kesitler
+
+**Level 1 baslangici**
+![level1](https://github.com/dedasame/pink-dream/assets/106378288/bbb478a7-362f-4274-9102-73484f1d2d2a)
+**Level 2 baslangici**
+![level2](https://github.com/dedasame/pink-dream/assets/106378288/9835fb26-ed30-418b-8e5c-a5a914dbc158)
+**Baslangic ekrani**
+![startscreen](https://github.com/dedasame/pink-dream/assets/106378288/f269e758-9838-41c1-9e8e-e1dada09867f)
+**Bitis ekrani**
+![endscreen](https://github.com/dedasame/pink-dream/assets/106378288/19157b7d-e6c2-4cb6-8268-fa21f20b2690)
+
+
