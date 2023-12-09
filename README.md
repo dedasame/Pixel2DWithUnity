@@ -11,7 +11,7 @@ git add .
 git commit -m "Kaydedilmemiş değişiklikler"
 “`
 
-- git yorumu istenilen şekilde değiştirilir.
+- git yorumu istenilen şekilde değiştirilir. (` Kaydedilmemiş Değişiklikler`)
 
 ### git geçmişini temizlemek için: yüklerken sorun cıkaran dosyayı temizlemek icin:
 
