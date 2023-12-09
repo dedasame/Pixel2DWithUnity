@@ -2,7 +2,7 @@
 
 ## Github yükleme adimlari: 
 
-### Dosyanın bulunduğu konumda git bash açıyoruz.
+### Dosyanın bulunduğu konumda git bash açıyoruz:
 ```
 git add .
 git commit -m "Kaydedilmemiş değişiklikler"
