@@ -43,5 +43,6 @@ git push origin --force --all
 
 **Video biraz büyük olduğu için youtube linkini paylaşıyorum**
 - video azıcık sesli olabilir sesi başta ksıp açın ^^
+- be carefull for high volume ^^
 - https://youtu.be/-kug-aICTwU?si=tizqS_D3whRbNM5U
 
