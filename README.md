@@ -41,4 +41,7 @@ git push origin --force --all
 **Bitis ekrani**
 ![endscreen](https://github.com/dedasame/pink-dream/assets/106378288/19157b7d-e6c2-4cb6-8268-fa21f20b2690)
 
+**Video biraz büyük olduğu için youtube linkini paylaşıyorum**
+- video azıcık sesli olabilir sesi başta ksıp açın ^^
+- https://youtu.be/-kug-aICTwU?si=tizqS_D3whRbNM5U
 
