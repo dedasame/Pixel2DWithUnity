@@ -1,7 +1,7 @@
 # pink-dream
 
 ## Github yükleme adimlari: 
-
+- Unity projesini github a yüklemek için kullanılan bash kodları
 ### Dosyanın bulunduğu konumda git bash açıyoruz:
 ```
 git add .
