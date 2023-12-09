@@ -1,6 +1,13 @@
 # pink-dream
+- Just a stupid name for my first platform game ;-;
 
-## Github yükleme adimlari: 
+- I have added two levels, a starting screen, and an ending screen to the game, which is a Mario-like platform game. I chose strawberries as collectible items, and there are also some traps such as saws and spikes. If the player touches these traps, the game restarts.
+
+-I made various adjustments to the player movement script and learned and implemented several features for jumping, walking, and moving with the walking platform. Additionally, I explored and applied sound effects to enhance the gaming experience.
+
+-I consider these developments a good start for my first fully completed game.
+
+## Github yükleme adımları: 
 - Unity projesini github a yüklemek için kullanılan bash kodları
 ### Dosyanın bulunduğu konumda git bash açıyoruz:
 ```
@@ -22,5 +29,4 @@ git filter-branch --force --index-filter \
 ```
 git push origin --force --all
 ```
-
 
