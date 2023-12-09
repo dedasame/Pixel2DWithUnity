@@ -2,7 +2,7 @@
 
 ## Github yükleme adimlari: 
 
-### Dosyanın bulunduğu konumda git bash açıyoruz.**
+### Dosyanın bulunduğu konumda git bash açıyoruz.
 ```
 git add .
 git commit -m "Kaydedilmemiş değişiklikler"
@@ -17,7 +17,7 @@ git filter-branch --force --index-filter \
 --prune-empty --tag-name-filter cat -- --all
 ```
 
-### güncellenmiş geçmişi uzak depoya itmek için:**
+### güncellenmiş geçmişi uzak depoya itmek için:
 
 ```
 git push origin --force --all
