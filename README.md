@@ -18,6 +18,7 @@ git filter-branch --force --index-filter \
 ```
 
 ### güncellenmiş geçmişi uzak depoya itmek için:**
+
 ```
 git push origin --force --all
 ```
