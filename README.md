@@ -5,6 +5,8 @@
 **Dosyanın bulunduğu konumda git bash açıyoruz.**
 “`
 git add .
+“`
+“`
 git commit -m "Kaydedilmemiş değişiklikler"
 “`
 
