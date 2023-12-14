@@ -8,7 +8,7 @@
 - I consider these developments a good start for my first fully completed game.
 
 ## Github yükleme adımları: 
-- Unity projesini github a yüklemek için kullanılan bash kodları
+Unity projesini github a yüklemek için kullanılan bash kodları
 ### Dosyanın bulunduğu konumda git bash açıyoruz:
 ```
 git add .
