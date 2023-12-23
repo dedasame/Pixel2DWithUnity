@@ -1,5 +1,5 @@
 # pink-dream
-- Just a stupid name for my first platform game ;-;
+- my first platform game ;-;
 
 - I have added two levels, a starting screen, and an ending screen to the game, which is a Mario-like platform game. I chose strawberries as collectible items, and there are also some traps such as saws and spikes. If the player touches these traps, the game restarts.
 
